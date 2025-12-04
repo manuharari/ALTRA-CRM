@@ -35,8 +35,8 @@ To turn on Cloud Sync:
 3.  Go to Deploys -> Trigger Deploy.
 
 ## 🔑 Login Credentials
-*   **User:** `mharari` (or `manuel@harari.mx`)
-*   **Password:** `admin`
+*   **User:** `username` (or `user email`)
+*   **Password:** `user chooses`
 
 ## ✨ Features
 - **Hybrid Storage:** Works offline (Local Storage) or online (Supabase) automatically.
